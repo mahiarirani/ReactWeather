@@ -1,5 +1,5 @@
 let React = require('react');
 
-let About = () => <h3>About Component</h3>;
+let About = () => <div><h3>About</h3><p>Welcome to the about page.</p></div>;
 
 module.exports = About;
