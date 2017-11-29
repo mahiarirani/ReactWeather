@@ -1,5 +1,5 @@
 let React = require('react');
-var {Link} = require('react-router');
+let {Link} = require('react-router');
 
 let Examples = () => (
     <div>
