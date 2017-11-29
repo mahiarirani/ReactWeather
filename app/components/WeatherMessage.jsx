@@ -1,7 +1,7 @@
 let React = require('react');
 
 let WeatherMessage = ({temp, location}) => (
-    <h1>It's {temp} in {location}</h1>
+    <h3 className="text-center">It's {temp} in {location}</h3>
 );
 
 module.exports = WeatherMessage;
